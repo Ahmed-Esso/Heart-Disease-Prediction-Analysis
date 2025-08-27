@@ -21,7 +21,7 @@ def load_heart_data():
                'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target']
         
         # Try to load the data from the expected location
-        data_path = r'G:\file\NTI\heart+disease\processed.cleveland.data'
+        data_path = 'processed.cleveland.data'
         df = pd.read_csv(data_path, names=col, na_values='?')
         
         # Handle missing values
@@ -338,3 +338,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
