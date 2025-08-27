@@ -8,7 +8,7 @@ A comprehensive machine learning project for predicting heart disease using the 
 - **Machine Learning**: Multiple ML models comparison (Random Forest, Logistic Regression, SVM, KNN)
 - **Interactive Web App**: Streamlit application for real-time predictions
 - **Jupyter Notebook**: Complete analysis workflow
-
+live app https://heart-disease-prediction-analysis-ahmed-essam.streamlit.app/
 ## Project Structure
 
 ```
