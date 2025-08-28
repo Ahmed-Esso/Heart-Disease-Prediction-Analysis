@@ -122,14 +122,14 @@ The project uses the **UCI Heart Disease Dataset** with the following features:
 
 | Model | Accuracy | Strengths |
 |-------|----------|-----------|
-| **🌳 Random Forest** | **86.9%** | Best overall performance, handles non-linear relationships |
-| 📈 Logistic Regression | 85.5% | High interpretability, fast training |
+| **🔍 K-Nearest Neighbors** | **91.8%** | Simple, effective for local patterns, excellent performance |
 | 🎯 Support Vector Machine | 90.2% | Good with non-linear data, robust |
-| 🔍 K-Nearest Neighbors | 91.8% | Simple, effective for local patterns |
+| 🌳 Random Forest | 86.9% | Handles non-linear relationships, good interpretability |
+| 📈 Logistic Regression | 85.5% | High interpretability, fast training |
 
 ### Key Insights
 
-- **🏆 Best Model**: Random Forest with 88.5% accuracy
+- **🏆 Best Model**: K-Nearest Neighbors with 91.8% accuracy
 - **🔑 Top Predictive Features**: 
   1. Maximum heart rate (`thalach`)
   2. Chest pain type (`cp`)
