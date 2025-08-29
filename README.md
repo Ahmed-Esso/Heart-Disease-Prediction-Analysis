@@ -17,7 +17,7 @@ A comprehensive machine learning project for predicting heart disease using the 
 
 ## 🎯 Live Demo
 
-Try the live application: [Heart Disease Prediction App](https://heart-disease-prediction-analysis-ahmed-essam.streamlit.app/)
+Try the live application: [Heart Disease Prediction App](https://heart-disease-prediction-analysis.onrender.com)
 
 ## 📸 Screenshots
 
